@@ -1,5 +1,5 @@
 <?php //-->
-/**
+/** test
  * This file is part of the Eden PHP Library.
  * (c) 2014-2016 Openovate Labs
  *
